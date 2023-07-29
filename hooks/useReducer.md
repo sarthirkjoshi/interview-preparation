@@ -3,7 +3,8 @@
 - **local state management** 
 - **Alternative to useState**
 - We can use state obj and action obj
-- We can have Multiple useReducer 
+- We can have Multiple useReducer
+- useReducer+useContext - used for global state management 
 
 # Code 
     const initialState ={count:0}
