@@ -1,6 +1,7 @@
 # useContext 
 
 - First 2 steps are the same in context API and useContent. Only the consumption part is different.
+- useReducer + useContext - used for global state management 
 
 # Step 1 - Create Context
 
