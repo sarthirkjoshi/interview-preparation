@@ -4,7 +4,12 @@
 - **Alternative to useState**
 - We can use state obj and action obj
 - We can have Multiple useReducer
-- useReducer+useContext - used for global state management 
+- useReducer+useContext - used for global state management
+
+# When to use useState vs useReducer
+
+- number, string, boolean -**useState**
+- array, object - **useReducer**
 
 # Code 
     const initialState ={count:0}
