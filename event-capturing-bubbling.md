@@ -18,7 +18,7 @@
 
 **MOST IMPORTANT - How to make any even to work as Event Capturing**
 
-- passing 3rd argument **true** to addEvenetListerner will make your event to function as  **event capturing**
+- passing 3rd argument **true** to **addEvenetListerner** will make your event to function as  **event capturing**
 
 parentCall(){alert('Parent div called')} 
 childCall(){alert('Child div called')}
