@@ -1,6 +1,6 @@
 **CSS Position**
 
-- **Five** position properties
+- **Five** position properties - **static, relative, absolute, fixed and sticky**
 
  1. **static**
      - default property for position
