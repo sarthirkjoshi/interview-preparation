@@ -36,8 +36,17 @@
 -  **unpack properties** from **object**
   Ex. let {a,b,c} = {a: "1",b: "2",c: "3"}
 
+
 **5. Arrow functions** (fat arrow functions)
+const a = () =>{}
+
+**6 Default parameters**
+Ex. function(a,b=2){}
+
+**7. Rest parameters** 
+- allows us to represent an indefinite number of arguments as an array
 - 
+
 
    
     
