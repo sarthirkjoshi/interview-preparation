@@ -12,14 +12,6 @@
 - array, object - **useReducer**
 
 # Code 
-    const initialState ={count:0}
-    
-    const reducer =(state, action){
-      switch(action){
-        case 'increment': return state+1
-      }
-    }
 
-    const [count, dispatch] = useReducer(reducer, initialState)
-    
-    <button onClick={()=>{dispatch('increment')}}>
+  ![image](https://github.com/sarthirkjoshi/interview-preparation/assets/46737879/7207a9b8-8a04-4cd0-a3ad-e8cf5c9f3029)
+
