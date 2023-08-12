@@ -12,4 +12,5 @@
   setaName({...name, firstName:value})
 
 - usecase4 - initialState as Array
-- It is used to toggle boolean values(true, false),Objects and arrays 
+- It is used to toggle boolean values(true, false),Objects and arrays
+- Ex. -  https://codesandbox.io/s/usestate-toggle-theme-jj8wmk?file=/src/App.js
