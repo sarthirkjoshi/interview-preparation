@@ -17,6 +17,7 @@
 - We can add **multiple** useEffect in one functional component
 
 - Fetch api in useEffect using axios or fetch
+- sandbox - https://codesandbox.io/s/useeffect-zdr2vc
 
 - ![image](https://github.com/sarthirkjoshi/interview-preparation/assets/46737879/0f0442e5-82c4-49bc-a00e-05bbbff1f453)
 
