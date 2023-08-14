@@ -10,6 +10,7 @@
 
 - number, string, boolean -**useState**
 - array, object - **useReducer**
+- Codesandbox - https://codesandbox.io/s/todo-list-usereducer-976h9z?file=/src/App.js
 
 # Code 
 
