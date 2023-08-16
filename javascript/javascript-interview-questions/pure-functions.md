@@ -1,6 +1,6 @@
 # Pure and Impure Functions
 
-- gives same output for same input
+- gives **same output** for **same input**
 -  **Predictable**, Readable, Reusable, Testable
 - Not having any side effects
 - It doesnt use console.log as well as console is external api and not javascript
